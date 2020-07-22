@@ -12,7 +12,7 @@ https://ml-prod-heroku-api.herokuapp.com/
 2. Install Heroku CLI
 >`brew tap heroku/brew && brew install heroku`
 
-3. Logs
+3. View logs
 >`heroku login`
 
 >`heroku logs --app < app_name >`
