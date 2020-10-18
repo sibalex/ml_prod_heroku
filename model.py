@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=UbCWoMf80PY
+
 # pip freeze > requirements.txt
 
 # Importing the libraries
